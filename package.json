@@ -1,0 +1,16 @@
+{
+  "name": "assignment-question-2-main",
+  "version": "1.0.0",
+  "description": "2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "jest",
+    "start": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
